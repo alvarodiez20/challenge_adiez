@@ -8,7 +8,7 @@ This repository includes:
     
     1.3. water_jugs() - Challenge 3
     
-  2. A unittest file to adress quality standards and can be executed with the following command:
+  2. A unittest file to adress quality standards that can be executed with the following command:
        `python test_cats_and_cheese.py`
-  3. A Jupyter Notebook `examples.ipynb` with some examples for each of the functions (the directives to execute it).
+  3. A Jupyter Notebook `examples.ipynb` with some examples for each of the functions (the directives to execute the code).
   4. This README :)
